@@ -1,0 +1,19 @@
+<h1>{{msg}}</h1>
+
+<div class="conteiner" >
+    <div *ngFor="let i of pessoaCaixa" class="historico">
+        
+        <div *ngIf="controle == false">
+            <hr>
+            <p><strong>Id: </strong>{{i.id}}</p>
+            <p><strong>Nome: </strong>{{i.nome}}</p>
+            <p><strong>Email: </strong>{{i.email}}</p>
+            <p><strong>Senha: </strong>{{i.senha}}</p>
+        </div>
+    </div>
+</div>
+
+<hr>
+<button type="button" (click)="clicou()">{{nomeButton}}</button>
+
+

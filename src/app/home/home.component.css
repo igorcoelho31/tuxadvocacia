@@ -1,0 +1,71 @@
+.contgeral{
+    position: relative;
+    left: 5%;
+    top: 10%;
+    width: auto;
+    height: auto;   
+}
+.cont-1{
+    width: 600px;
+    height: auto;
+}
+
+.cont-2{
+    width: 600px;
+    height: auto;
+}
+
+
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+
+  /* Estilos da página */
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+  }
+
+
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 1rem;
+  }
+
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  .banner {
+    background-image: url('https://advogadosdejau.com.br/wp-content/themes/dentistas-de-jau-directory/assets/img/banner-breadcrumb.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+  }
+
+  .servicos {
+    display: flex;
+    justify-content: space-around;
+    margin: 2rem 0;
+  }
+
+  .servico {
+    text-align: center;
+  }
+
+
+  #negrito2{
+    position: relative;
+    left: 37.2%;
+  }

@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "nome": "igor",
+      "email": "827328732@gmail.com",
+      "senha": "238928392893",
+      "id": 1
+    },
+    {
+      "nome": "igor",
+      "email": "827328732@gmail.com",
+      "senha": "238928392893",
+      "id": 2
+    }
+  ]
+}
